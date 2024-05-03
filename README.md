@@ -1,6 +1,6 @@
 ### Hi there, I'm Anteneh Mulu! 👋
 
-I'm a ## junior Laravel developer passionate about crafting clean, efficient code that powers seamless user experiences. 
+I'm a ###junior ###Laravel ###developer passionate about crafting clean, efficient code that powers seamless user experiences. 
 
 👀 I’m interested in exploring the intersection of technology and creativity, and how they can be harnessed to build innovative solutions.
 
